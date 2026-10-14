@@ -1,2 +1,2 @@
 print("Bye")
-print("HHI")
+print("KI")
